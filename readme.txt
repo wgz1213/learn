@@ -1,1 +1,0 @@
-ok,this is study step for git!
